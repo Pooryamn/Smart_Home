@@ -12,6 +12,7 @@ in this project we have 24 RGB lamps that control with Light AVR.
 There is a USART Connection between Main AVR and Light AVR for sending order from Main to Light for choosing model and color 
 
 <h3> Simulation pictures : </h3>
+
 ![alt text](https://github.com/Pooryamn/Smart_Home/blob/master/Pic1.png)
 
 ![alt text](https://github.com/Pooryamn/Smart_Home/blob/master/Pic2.png)
